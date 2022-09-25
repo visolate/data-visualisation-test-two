@@ -1,0 +1,23 @@
+channels:
+  - anaconda
+  - defaults
+  - conda-forge
+  - dmentipl
+dependencies:
+  - ipywidgets
+  - ipympl
+  - numpy
+  - scipy
+  - matplotlib
+  - fastparquet
+  - cmasher
+  - joypy
+  - seaborn
+  - pandas
+  - arviz
+  - geopandas
+  - cartopy
+  - wordcloud
+  - bokeh
+  - holoviews
+  - kdepy
